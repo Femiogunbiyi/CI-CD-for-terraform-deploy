@@ -7,7 +7,7 @@ on:
 
 jobs:
   terraform:
-    name: 'Terraform Lint, Security Check, and Deploy'
+    name: 'Terraform Deploy'
     runs-on: ubuntu-latest
 
     env:
